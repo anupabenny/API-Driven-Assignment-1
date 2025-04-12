@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a7d0b36b5664e38b9694645a4d948dc/artifacts
+end_time: 1744419763578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a7d0b36b5664e38b9694645a4d948dc
+run_name: DecisionTree
+run_uuid: 3a7d0b36b5664e38b9694645a4d948dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744419759696
+status: 3
+tags: []
+user_id: anupa

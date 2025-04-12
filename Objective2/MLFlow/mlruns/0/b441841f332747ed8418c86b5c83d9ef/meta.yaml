@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b441841f332747ed8418c86b5c83d9ef/artifacts
+end_time: 1744377405953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b441841f332747ed8418c86b5c83d9ef
+run_name: sneaky-goose-861
+run_uuid: b441841f332747ed8418c86b5c83d9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744377401170
+status: 3
+tags: []
+user_id: anupa
