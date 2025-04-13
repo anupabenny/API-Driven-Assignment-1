@@ -13,7 +13,7 @@ logger.info("Dataset loaded for chi-square Test")
 # Create a contingency table for Employment Status and Loan Default
 new = pd.crosstab(df["Employment Status"], df["Loan Default"])
 
-# Create a contingency table for Employment Status and Loan Default
+# Create a contingency table for Marital Status and Loan Default
 new1 = pd.crosstab(df["Marital Status"], df["Loan Default"])
 
 # Perform the Chi-Square test
